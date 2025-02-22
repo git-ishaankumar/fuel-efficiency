@@ -4,7 +4,8 @@ Predicts fuel efficiency of a car using Tensorflow.
 ```
 git clone https://github.com/code-ishaan/fuel-efficiency.git
 ```
-```pip install -r requirements.txt
+```
+pip install -r requirements.txt
 ```
 ## Note
 All categorical values from the original dataset were converted to numerical values.
