@@ -2,7 +2,7 @@
 Predicts fuel efficiency of a car using Tensorflow.
 ## Usage
 ```
-git clone https://github.com/code-ishaan/fuel-efficiency.git
+git clone https://github.com/git-ishaankumar/breast-cancer-classification
 ```
 ```
 pip install -r requirements.txt
